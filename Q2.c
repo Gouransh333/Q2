@@ -1,3 +1,4 @@
+//Write a program to input two numbers and display their sum,diff,product and quotient 
 #include<stdio.h>
 int main(){
 int a,b,sum,diff,p,q;
